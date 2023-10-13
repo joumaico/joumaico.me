@@ -135,7 +135,8 @@ section {
 }
 
 .header-content .left-header .image img:hover {
-  filter: grayscale(0);
+  filter: grayscale(30%);
+  cursor: all-scroll;
 }
 
 .header-content .right-header {
